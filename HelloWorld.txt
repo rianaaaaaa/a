@@ -1,9 +1,5 @@
 public class HelloWorld{
 	public static void main(String[] args){
-<<<<<<< HEAD
-		System.out.println("personF");
-=======
 		System.out.println("personA");
->>>>>>> e466367292d1adf3d39863f50a36673f5a8d6b3c
 	}
 }

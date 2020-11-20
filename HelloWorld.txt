@@ -3,28 +3,3 @@ public class HelloWorld{
 		System.out.println("personA");
 	}
 }
-public class HelloWorld{
-	public static void main(String[] args){
-		System.out.println("personC");
-	}
-}
-public class HelloWorld{
-	public static void main(String[] args){
-		System.out.println("personB");
-	}
-}
-public class HelloWorld{
-	public static void main(String[] args){
-		System.out.println("personA");
-	}
-}
-public class HelloWorld{
-	public static void main(String[] args){
-		System.out.println("personA");
-	}
-}
-public class HelloWorld{
-	public static void main(String[] args){
-		System.out.println("personA");
-	}
-}

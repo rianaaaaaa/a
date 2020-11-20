@@ -1,25 +1,5 @@
 public class HelloWorld{
 	public static void main(String[] args){
-		System.out.println("personA");
-	}
-}
-public class HelloWorld{
-	public static void main(String[] args){
-		System.out.println("personA");
-	}
-}
-public class HelloWorld{
-	public static void main(String[] args){
-		System.out.println("personA");
-	}
-}
-public class HelloWorld{
-	public static void main(String[] args){
-		System.out.println("personA");
-	}
-}
-public class HelloWorld{
-	public static void main(String[] args){
-		System.out.println("personA");
+		System.out.println("personF");
 	}
 }
